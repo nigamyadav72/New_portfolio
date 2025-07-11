@@ -49,7 +49,7 @@ const Footer = () => {
           </a>
         </div>
         
-        <span className="footer__copy">Made with ❤️ by Nigam Yadav<br />&#169; 2025 Nigam Yadav.All rights reserved.</span>
+        <span className="footer__copy">Made with ❤️ by Nigam Yadav<br />&#169; 2025 Nigam Yadav. All rights reserved.</span>
       </div>
     </footer>
   );
