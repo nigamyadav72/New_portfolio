@@ -14,15 +14,15 @@ export const Data = [
   {
     id: 2,
     image: Image2,
-    title: "Harry Clinton",
+    title: "Abishek Gupta",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Satisfied with the work of nigam.",
   },
   {
     id: 3,
     image: Image3,
-    title: "Sara Cill",
+    title: "Ritesh Sahani",
     description:
-      "A really good job, all aspects of the project were followed step by step and with good results.",
+      "Satisfied with the work of nigam.",
   },
 ];
