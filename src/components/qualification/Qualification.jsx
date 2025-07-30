@@ -98,11 +98,11 @@ const Qualification = () => {
           {/* 1st entry: left */}
           <div className="qualification__data">
             <div>
-              <h3 className="qualification__title">Full Stack Developer</h3>
-              <span className="qualification__subtitle">Self</span>
+              <h3 className="qualification__title">MERN Stack Developer</h3>
+              <span className="qualification__subtitle">Digital Pathsala</span>
               <div className="qualification__calender">
                 <i className="uil uil-calendar-alt"></i>
-                2021 - Present
+                2023 - Present
               </div>
             </div>
             <div>
@@ -120,21 +120,21 @@ const Qualification = () => {
               <span className="qualification__line"></span>
             </div>
             <div>
-              <h3 className="qualification__title">Web Developer</h3>
+              <h3 className="qualification__title">App Development</h3>
               <span className="qualification__subtitle">IOE Purwanchal Campus</span>
               <div className="qualification__calender">
                 <i className="uil uil-calendar-alt"></i>
-                2021 - Present
+                2024 - Present
               </div>
             </div>
           </div>
           <div className="qualification__data">
             <div>
               <h3 className="qualification__title">Full Stack Developer</h3>
-              <span className="qualification__subtitle">Self</span>
+              <span className="qualification__subtitle">Digital Pathsala</span>
               <div className="qualification__calender">
                 <i className="uil uil-calendar-alt"></i>
-                2021 - Present
+                2024 - 2025
               </div>
             </div>
             <div>
@@ -151,11 +151,11 @@ const Qualification = () => {
               <span className="qualification__line"></span>
             </div>
             <div>
-              <h3 className="qualification__title">Web Developer</h3>
+              <h3 className="qualification__title">Django REST Framework</h3>
               <span className="qualification__subtitle">IOE Purwanchal Campus</span>
               <div className="qualification__calender">
                 <i className="uil uil-calendar-alt"></i>
-                2021 - Present
+                2024 - 2025
               </div>
             </div>
           </div>
