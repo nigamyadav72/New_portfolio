@@ -1,5 +1,8 @@
 .testimonial__container{
-    width: 750px;
+    width: 780px;
+    height: max-content;
+    overflow: hidden;
+    height: initial
     
 }
 
@@ -9,7 +12,7 @@
     padding: 1.5rem 2rem;
     border-radius: 1.5rem;
     margin-bottom: var(--mb-3);
-
+   
 
 }
 
